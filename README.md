@@ -1,4 +1,4 @@
-# Help-Zomato-Predict-Rating-from-the-Review
+# Help Zomato Predict Rating from the Review
  Using NLP and machine learning, make a model to predict the rating in a review  based on the content of the text review. This will help identify cases with a mismatch.
 
 - Zomato is India’s largest platform for discovering restaurants and ordering food. It operates in India as well as a few cities internationally. Bangalore is one of the biggest customers and restaurant bases for Zomato with 4 to 5 million users using the platform each month. 
